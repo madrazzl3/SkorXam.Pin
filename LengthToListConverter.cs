@@ -11,10 +11,11 @@ namespace SkorXam.Pin
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            if(value is int length)
+            if (value is int length)
             {
                 return Enumerable.Range(1, length);
             }
+
             return new List<object>();
         }
 

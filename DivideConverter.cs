@@ -10,11 +10,12 @@ namespace SkorXam.Pin
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            if(value is double val)
+            if (value is double val)
             {
                 int number = int.Parse(parameter.ToString());
                 return val / number;
             }
+
             return value;
         }
 
