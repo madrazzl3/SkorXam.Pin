@@ -2,8 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>SkorXam.Pin.Extended</PackageId>
     <Version>1.0.5</Version>
+    <Authors>Phat Huynh, Lazar Prijović</Authors>
+    <Company>Stratis</Company>
     <Description>PinView for Xamarin.Forms</Description>
+    <PackageDescription>PinView for Xamarin.Forms</PackageDescription>
+    <RepositoryUrl>https://github.com/stratisproject/SkorXam.Pin.Extended</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
