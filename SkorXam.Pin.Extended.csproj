@@ -8,7 +8,7 @@
     <Company>Stratis</Company>
     <Description>PinView for Xamarin.Forms</Description>
     <PackageDescription>PinView for Xamarin.Forms</PackageDescription>
-    <RepositoryUrl>https://github.com/stratisproject/SkorXam.Pin.Extended</RepositoryUrl>
+    <RepositoryUrl>https://github.com/stratisproject/SkorXam.Pin.Extended.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
