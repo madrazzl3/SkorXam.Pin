@@ -201,7 +201,7 @@ namespace SkorXam.Pin
         public static readonly BindableProperty ClearButtonImageSourceProperty =
             BindableProperty.Create(nameof(ClearButtonImageSource), typeof(ImageSource), typeof(PinView),
                 defaultBindingMode: BindingMode.OneWay,
-                defaultValue: ImageSource.FromResource("SkorXam.Pin.reset.png"));
+                defaultValue: ImageSource.FromResource("SkorXam.Pin.Extended.reset.png"));
 
         public ImageSource DeleteButtonImageSource
         {
@@ -212,7 +212,7 @@ namespace SkorXam.Pin
         public static readonly BindableProperty DeleteButtonImageSourceProperty =
             BindableProperty.Create(nameof(DeleteButtonImageSource), typeof(ImageSource), typeof(PinView),
                 defaultBindingMode: BindingMode.OneWay,
-                defaultValue: ImageSource.FromResource("SkorXam.Pin.backspace.png"));
+                defaultValue: ImageSource.FromResource("SkorXam.Pin.Extended.backspace.png"));
 
         public bool DotHasShadow
         {
