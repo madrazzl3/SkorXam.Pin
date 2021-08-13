@@ -1,7 +1,7 @@
 # SkorXam.Pin
 PinView for Xamarin.Forms
 ### Installation
-Nuget: [SkorXam.Pin](https://www.nuget.org/packages/SkorXam.Pin/)
+Nuget: [SkorXam.Pin.Extended](https://github.com/stratisproject/SkorXam.Pin.Extended/packages/)
 ### Usage
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
